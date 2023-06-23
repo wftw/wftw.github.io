@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Hugo test!
-publishDate: 2023-06-17 21:07:00
+date: 2023-06-17
 sidebar: false
 pager: true
 authorbox: true

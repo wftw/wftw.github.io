@@ -1,6 +1,6 @@
 ---
 title: "The Stones Cry Out"
-publishDate: 2023-06-18T11:46:00-04:00
+date: 2023-06-18
 sidebar: true
 pager: true
 authorbox: true
