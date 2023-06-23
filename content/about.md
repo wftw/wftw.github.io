@@ -8,6 +8,8 @@ menu:
     weight: 5
 ---
 
+This will be the About page...
+
 Our website builds with [Hugo](https://gohugo.io/) static site generator and
 [Mainroad](https://github.com/vimux/mainroad) theme. This demo allows you to see what Mainroad based website looks like
 before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the
